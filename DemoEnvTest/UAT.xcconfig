@@ -1,0 +1,11 @@
+//
+//  UAT.xcconfig
+//  DemoEnvTest
+//
+//  Created by Boudhayan Biswas on 18/11/17.
+//  Copyright © 2017 Boudhayan Biswas. All rights reserved.
+//
+//Server URLS and Other Configuration Keys
+server_url          = www.uatenv.com
+timeout_interval    = 120
+protocol            = https
